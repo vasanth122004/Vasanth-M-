@@ -62,11 +62,4 @@
   <a href="https://www.linkedin.com/in/vasanth-m-b30939240" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <!-- Uncomment when portfolio is live -->
   <!-- <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/></a> -->
-</p>
-
----
-
-<p align="center">
-  🚀 Thanks for stopping by! Feel free to connect or drop a message. Let's build something cool together! 💬
-</p>
-
+</p> 
